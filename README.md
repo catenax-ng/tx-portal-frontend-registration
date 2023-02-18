@@ -1,4 +1,4 @@
-# Catena-X Portal Frontend Registration
+# Catena-X Frontend Registration
 
 This repository contains the frontend code for the Catena-X Frontend Registration.
 
