@@ -17,7 +17,8 @@ The Catena-X Portal is designed to work with the [Catena-X IAM](https://github.c
 
 ### Local build & run
 
-Run the application on your machine on http://localhost:3000/registration/
+Run the application on your machine on http://localhost:3002/registration/
+Note: for a full working environment against dev backend also check out the portal-assets repo and run `yarn start` there.
 
     yarn
     yarn build
