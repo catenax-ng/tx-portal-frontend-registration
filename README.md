@@ -15,12 +15,4 @@ The Catena-X Portal is designed to work with the [Catena-X IAM](https://github.c
 
 * Dev Install: https://portal-dev.demo.catena-x.net/registration/
 
-### Local build & run
 
-Run the application on your machine on http://localhost:3002/registration/
-
-Note: if you'd like to run the complete frontend application, follow the 'Run frontend on localhost' guide available within the developer documentation of [portal-assets](https://github.com/eclipse-tractusx/portal-assets).
-
-    yarn
-    yarn build
-    yarn start
